@@ -38,3 +38,18 @@ h1 {
 
 }
 
+table {
+    border-collapse: collapse;
+
+}
+
+.main-row {
+    background-color: rgba(32,169,229,255);
+    color: white;
+
+}
+
+.row1 {
+    background-color: rgba(177,229,242,255);
+
+}
