@@ -10,3 +10,13 @@ header {
     width: 20%;
 
 }
+
+.title-notes {
+    color: grey;
+
+}
+
+.author {
+    color: rgba(78,160,255,255);
+
+}
